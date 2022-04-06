@@ -1,0 +1,76 @@
+@charset "UTF-8";
+
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../images/vines.jpg");
+    font-size: medium;
+}
+
+header{
+    text-align: center;
+    width: 100%;
+}
+.container{
+    max-width: 960px;
+    margin: auto;
+	background: #C8D2CB; 
+    font-size: 24px;
+    padding: 25px;
+    background-color: #C8D2CB;
+}
+
+.parallax{
+    max-width: 1010px;
+    margin: auto;
+    background-repeat: no-repeat;
+    background-position: center 9px;
+    background-size: auto;
+    background-attachment: fixed;
+    height: 370px;
+    background-image: url(../images/plant_img/alternanthera_dentata_purple.png);
+}
+
+.parallax2{
+    max-width: 960px;
+    margin: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 370px;
+    background-image: url("../images/plant_img/amaranthus_caudatus_new.png");
+}
+
+.parallax3{
+    max-width: 960px;
+    margin: auto;
+	background-image: url("../images/plant_img/angelonia_angustifolia.png");
+	background-repeat: no-repeat;
+	background-position: center 9px;
+	background-size:cover;
+	background-attachment: fixed;
+	height:370px;
+}
+
+.parallax4{
+    max-width: 960px;
+    margin: auto;
+    background-repeat: no-repeat;
+    background-position: center 9px;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 370px;
+    background-image: url(../images/plant_img/bellis_perennis.jpeg);
+}
+
+.parallax5{
+    max-width: 960px;
+    margin: auto;
+	background-image: url("../images/plant_img/campanulastrum_americanum.png");
+	background-repeat: no-repeat;
+	background-position: center 9px;
+	background-size:cover;
+	background-attachment: fixed;
+	height:370px;
+}
